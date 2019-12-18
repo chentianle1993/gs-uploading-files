@@ -1,3 +1,6 @@
+#源代码逻辑结构
+image:markdown/sourceCode.jpg[]
+
 :spring_version: current
 :spring_boot_version: 1.5.10.RELEASE
 :Controller: https://docs.spring.io/spring/docs/{spring_version}/javadoc-api/org/springframework/stereotype/Controller.html
